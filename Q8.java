@@ -2,7 +2,7 @@
 // Skill Mapping: Basic
 // Description: Solve the HackerRank Problem given as a link below -
 // https://www.hackerrank.com/challenges/java-stack/problem
-
+//hackerrank problem:  Prepare>java>datastructures>javastack
 
 import java.util.*;
 class Q8{
